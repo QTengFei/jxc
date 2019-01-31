@@ -3,18 +3,32 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "fei": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.5.21"
+    "axios": "^0.18.0",
+    "bootstrap": "^3.4.0",
+    "echarts": "^4.2.0-rc.2",
+    "element-ui": "^2.4.11",
+    "jquery": "^3.3.1",
+    "lrz": "^4.9.40",
+    "material-design-icons-iconfont": "^4.0.3",
+    "mint-ui": "^2.2.13",
+    "popper.js": "^1.14.6",
+    "qs": "^6.6.0",
+    "vue": "^2.5.21",
+    "vue-router": "^3.0.2",
+    "vuetify": "^1.4.0",
+    "vux": "^2.9.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
     "@vue/cli-plugin-eslint": "^3.2.0",
     "@vue/cli-service": "^3.2.0",
     "babel-eslint": "^10.0.1",
+    "babel-plugin-component": "^1.1.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.5.21"

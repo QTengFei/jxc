@@ -1,0 +1,108 @@
+@font-face {font-family: "element-icons";
+  src: url('iconfont.eot?t=1547711235956'); /* IE9 */
+  src: url('iconfont.eot?t=1547711235956#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAwIAAsAAAAAFTAAAAu7AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCFDAqZJJQPATYCJANACyIABCAFhSkHghwbsRERVaxfJ/viwDxp+o3kiHoVsYJLzuOnhTYUuecRFGNt70UsUS00KkMWrZBpz/RPNLEQrXvHK42QPGTmh+e3+X/uvWDcBOVSdqMuEgNjkYD5N8BaqKtw73tZoIP3Gnpr3ECW7Sp0SbzS17yIAGEMx0T7YQ08bOqMeff0z0nbsevTCLT+KY5sKyCnjlT6c+3N7k6HWDiKa9mbJLud2feTwiunBKzqwNYIYIe0WwQHquPvWKjT+kyWk4P5C10qlnZMxC4nAAXxckFzVbPkIAKLdgU6bS/tUIOIUjpWR3CISA5jjk0lQq8DtojETngYAAf09+MPSCICgAR2EugrLbTLWoE0CH2hQ5gQE80IA5jVKQxOApKAGUAKiDc27wEgKcyQQLneLGYADHBqT/qEgkQwKigMioNFQWmwKtgQXBW89IUuFAJ4d4Eu81g5Hl0QxMY9Vo/XE7cGqiJhcCTidAh4Z+rChGPv7H9eBmhRgvtTfRX4hJyRSwIoDxkFVIQUAJUghUAVSDFcFpFFQAEpBcpByoASkFVAScgGoALkSqAM5CqgLOQlRJIGvnWJj4KohV0nAPMApIoApC+s+45KCld5COgREdiNoNgi5UNgWFMgoBcQJEngXAJK5JRyE6PxUhaX0AfgERE4SXJJgs9i4SxRjEYiESGNg7ZY4img1f0TqEgiskP/MNustRhotyFH7WtieK77DaTeLAjUXfJDAdHM51Mw3gn+nUzGbsKvNNsFlwMpfr/S65Xv9000WXnens1nhmPDdmeZzmI9558khO/JNp9DNzpTz3i9er+2ffcc3+xP2Tv06F7GYY/DwbcP8s12vtgsLHvpFQR7Ehynb12+fB4z3Ll4kXb7RLuByWTjWa1GntBo5Tld6h42mzttII1uIkxuxsXDzYNaj6CLcaGoPp0VM7kBfirT6fqRwjDDrOmossmYT6Fr0C3uCfb76jBfIAXafVDum7kfbA93gjagkHZQ7wKgRNWFJ28iC3eQUfcCKewD/v9Zr6SSh66J2Y6hDGrgqkhumWUjnlxp1rsYWgHQaZGbxhT1exk8EIRZPNpBFAVbw21UaggzAAbFAbGHbOtpN+t5rcbdaRhsuyoV5Bja6W5XRQC7HIpB8Ip71zz3zxr2lt3wzVWYzu/lK2/5p8ld3sf+wBPfjThml9rigRD7YDoKiVgorncJAXo2IIxxY5TBE7MXvSpZDNjcGFG7EwYz7kYcInrkrXL80KA43OHJ4A64RWAjY9qosmjNx3GSERQ0JJgmLF58XC3VWthgE2OczlwHN2tPjVYgUPCMqPwmOnDNLOVCC60wyU28VmWHhT5qXnzzxkaGNgk28T9+NwaqU5x8a3ZYd/Wud9R1Sjn/kF/JJ9UDHbh1cirvevUGiQBNcJFWgMb2omPo6BxsdTXh0J7Ai0Dped8zX2yP5hjaVRmFsI1Wm0wGi6DFEoPYVcoWhUYRMqWKc/EBClijRlrgNTggVlCArQAilgEsCFYVwNIbCSirDsLY5FIIW0awUIDB1wHrkQcPlR2cM1cAa3S1lHt+CGKr7hZUgAPL4GuuMg0t41s8ikIIDzWnryKvQo2qoa3OjsNnyTgX7OjXNAGfT37NsSuvpT9QB3m9iquPXYmtA/4eUn8F3ASKMgzFbnitkzKYAKiE1rLujtwJQiiYMS7CADrrHGwIPAdPPUzlDT70DntPZl3wJl40jUAIgxOtX3l4wL3b6kpFzbx0z+l4+d7jVsxc0V9LWgZyBGmGDNP95jgu40A+loG5T4pCjTHRFTLOZY7ivTnvKcimrCL698h09Lgw5f/aqa8WNJVATZs3N3kL6lM0K8lv2qOdytoTHo/O+C6rgyl0Cs8GS+UINKOlZQYsSFH8O6RUHjwrdDKFoBFh5FKgmsaeD9WPzuXn30I24kieL5/NrkJKZEgtuybcZanURVb3Fd546/tXs1O3hxHRun/aBiYZ1Ief7M7QbICkOQVFx06co8U5Nyc4ltPl08pTF3aWx0Wd+VZrmOlsiysrzRW/e6F/ifnFnOfvfiiJl3woW8KfUOVUL2eS80Pvh71WDaSEYqjGbZkPJWTKawxVHFdMKey91jcWYQW7YPH8oz2w04ls4eYcFL8EH90IHxZP5g73cTp74EW0Gt66FVJDmgDqPkUJrIHV+d4wAOOQVEVyY7mkitabV11DM3R19XzpfM/TnWoi/0OL90n3FaOMfIpOslOYLOo/csQz2C/iCneeO0fvI7kx3Kf7GIEqYkklhGrf0xKQjKm68UC35virvUPG3qtXP7py64tLrdemxmWDyZuWvXutQquv+eD5/HLNGjbaw6AlMUxMCcrsXpd9TcX856ArkLid1TUN395/bhvtbG7+dql5LLw9jW8YLrg9WBP2JS2LrfpxJhlg07+W5H0ooUYRW6EhH7Hz1vLsSL6h0IbIeIO8Lwouy8lsophLgrVtr7X2LiUZeVq1tgpMSSw6tPvkEerNlHmP2Hb2ZVX9vGHWdyWcP9HvsKBrTo9hQey7gC1Bz2BjBe20Izc2um/O6yP0yOtzsNGRq+gYLsFieJiqFy0FfYfNSmON4bUvdbO4ySu7k5OR1Rx2G6v9c2pFN2htVauVc8vaZDt1K7v1Orlyy+litHi97srl/leQ6NaDwgW298jud299EetYu/fZvEZxzW6dtnPGNfe7358deav/zQV1vas6Ks/VjLpSVsRUz+l6BRS+31uOZC6aVaVOkkgcJZq/OrJ8zU/gp4aotbPWiqYjcQ+mPIhDpvdFMMvYsZWrZYKFC2X8NbEVbDDpqtP27bqodb76L3bkL9SXq1BV+XDdS+/Y6qufHNLI7yydSk7WV4v65rRzkhK4nKn9s2fK71gfqP1mgsL/9KJ0T9Fm0eZNY0XZGxG7txTN+HoHkGx9kY+89DxWoW6JQjpnPxuSz/524tcRPRJoxqpbv0c68/SkS9LBOzs6O3Gcx7EltyfbOCXqnlVvDkVikQ0LiE4cOhhhC30bxAX1LQkR4jXsR6X1ffjt61IifqUtykhCwiLDKwAygYNQm3SUbucP5w7z2+nRY5vXNI6bfUnUHtu+f/NSyFDQNFXUXqPM+mt2Tur7S/RW/JvvnzXBhgaa0hKtbQlKlk7ohcnCryIAQ9RtuT9Bj4WwtOtpWMiYBQ1cH8jppRJ1UkjeYX+GXSD6eLx3LfVYFpFHVfa+6MpRcML7w7lCn3vhzARZpwP6u1E6ZIJT5s0nnM0rr4qh4UrzlOSR9gzpr5XP6Qye5LfMMuUHb3wu7INXnYwDi7/aN0xOwicAGN+xA5lIyKQ0uOB7+Kfw6+4gUu0ghkJS+44h9G99CA6+WCiQoQfyCqKqu20lUrZo8BcC6oYdRUrKMNqE+R+0Hdj9bqp/MTXl1wjs57Dyo12OEF899EjjezQNpl2xIP/HKQsDodBP5xRBZdZSP5pJGRrDzSwUYvHm6lurcQOMrkkACqYIGMuihrFNJrWjeQCiZA5IQrhkkkTI0lPu40gapoJkEOaQghxNJxdF0wEElIoEwBSbIBCxWwRGGgWEc//aYsE/2ISNHwkQBvdSgsL/xbvNfVcxgD4lBMHSFAtDNrKzm8geNtgiy2Nlzf4LvTaQxiMLv/uHqafIZpgNuMY3ZEyrPaCf+pGIMy7F1ryu4WrYNNF0KVZoJQsi3TjPnbxDZmO7sudJgoBAJaOwCAmJFTHXUuxBjdNbXk557OzZ+4I8HQhYzbhixsnC3wASCSovrjGUGcSKtzqPH3WXW/amvJGqEY5xkFRDy3g9CD6gqIuMjlcVRJ3IhAVqOmO5mcjFimzDSe39IuLKHVN/2g1YqppumJbteLw+v4sbt8NALbFPyMuA7Id90KQZa9TnvAVcpZqOsSUUILuo5MsrJ93jnFpksS32LNBMux88p62Eook3Qmxxv1arbAPMlY8mZINWoNnMxfZmSAVBFHrc6KIWTmaxxI7D/oNCAXy4DMA+6E7kzmln8zDJWBPqfJHUEpHf6NEMm0D0CtzQygo=') format('woff2'),
+  url('iconfont.woff?t=1547711235956') format('woff'),
+  url('iconfont.ttf?t=1547711235956') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1547711235956#element-icons') format('svg'); /* iOS 4.1- */
+}
+
+.element-icons {
+  font-family: "element-icons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-emishenfenzheng:before { /* 身份证 */
+  content: "\e645";
+  font-size: 13px;
+  color: dodgerblue;
+}
+
+.el-icon-weibiaoti-:before {  /* 电话 */
+  content: "\e60d";
+  color: dodgerblue;
+  font-size: 20px;
+}
+
+.el-icon-mima:before {  /* 密码 */
+  content: "\e659";
+  color: dodgerblue;
+  font-size: 15px;
+}
+.el-icon-shimingrenzheng1shuruzhenshixingmingfuzhi:before { /* 真实姓名 */
+  content: "\e631";
+  color: dodgerblue;
+  font-size: 25px;
+}
+
+.el-icon-zhanghaoguanli:before {  /* 账号 */
+  content: "\e601";
+  color: dodgerblue;
+  font-size: 20px;
+}
+
+/* nav-icon */
+.el-icon-iconfontgerenzhongxin:before { /* 个人中心 */
+  content: "\e646";
+  font-size: 18px;
+}
+
+.el-icon-caiwufenxi:before {  /* 财务分析 */
+  content: "\e886";
+  color:black;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.el-icon-home:before {  /* 主页 */
+  content: "\e670";
+  font-size: 18px;
+}
+
+.el-icon-kucunchaxun:before { /* 库存查询 */
+  content: "\e671";
+  color:black;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.el-icon-qichukucunluru:before {  /* 库存录入 */
+  content: "\e640";
+  font-size: 18px;
+}
+
+.el-icon-wodekucun_huaban:before {  /* 我的库存 */
+  content: "\e612";
+  color:black;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.el-icon-zhanghumingxi:before { /* 账户明细 */
+  content: "\e617";
+  color:black;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.el-icon-shenqing:before {  /* 材料申请 */
+  content: "\e61a";
+  color:black;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.el-icon-zhuxiaodenglu:before { /* 注销登录 */
+  content: "\e618";
+  color:black;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.el-icon-return:before {  /* 返回 */
+  content: "\e6ba";
+  font-size: 25px;
+}
